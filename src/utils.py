@@ -1,0 +1,1 @@
+#functionalities in a common way whoch will be used in the entire app - eg read a dataset from a database - create mogodb, 
